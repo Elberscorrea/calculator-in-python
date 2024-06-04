@@ -43,7 +43,7 @@ Se você deseja contribuir para este projeto, fique à vontade para enviar um pu
 
 ## Autor
 
-[Elberscorrea](https://github.com/seu_usuario)
+[Elber Correa](https://github.com/Elberscorrea)
 
 ## Licença
 
